@@ -1,5 +1,5 @@
 ---
-- hosts: ansible-r
+- hosts: localhost
   connection: local
   become: yes
 
